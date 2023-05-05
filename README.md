@@ -21,3 +21,10 @@ $\qquad$ As a part of our commitment to ensuring that our software is used appro
   chenbo.dshy@sinopec.com
 
   - Violations of regulations: If any of these regulations are violated, the party no longer has the right to use the software. We reserve the right to take appropriate action in response to any violations of these regulations.
+
+---
+## 3. Jump start
+
+  - Open HYSYS with Admin user, find the register Extension button, register memcal.dll file, remember to put the two file in same directory with all Eng names. 
+
+  - Restart HYSYS, find MemCal in pallete.
