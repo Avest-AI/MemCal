@@ -1,4 +1,4 @@
-# MemCal
+# Membrane Gas Separation Module Simulator - MemCal Extension for Aspen HYSYS
 ---
 A fast and accurate simulation software for membrane gas separation (extension in Aspen HYSYS)
 
